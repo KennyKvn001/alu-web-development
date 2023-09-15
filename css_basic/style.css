@@ -1,0 +1,30 @@
+body{
+    display: flex;
+    flex-direction: column;
+} 
+main{
+    display: flex;
+    flex-direction: row;
+    flex: auto;
+}
+main, article{
+    flex: 2;
+    overflow-y: auto;
+    background-color: rgb(231, 201, 201);
+    border: 1rem;
+}
+main, aside{
+    flex: 1;
+    overflow-y: auto;
+    background-color: azure;
+    border: 2rem;
+}
+header{
+    display: flex;
+    background-color: bisque;
+    border: 12px;
+}
+footer{
+    display: flex;
+    background-color: blanchedalmond;
+}
