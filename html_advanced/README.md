@@ -17,3 +17,5 @@ To transform the designer's creativity into a functional webpage using HTML:
 ## Conclusion
 
 There you have it! I've successfully implemented a simple webpage using just HTML. This straightforward approach is perfect for basic websites or when I need to create a quick prototype. If I ever decide to jazz up my webpage with CSS for styling or JavaScript for interactivity, I can always build upon this foundation. As I continue exploring and learning, I'll be able to craft web experiences that perfectly align with my vision. If you have any questions or need assistance, please don't hesitate to reach out. Happy coding!
+
+![html image](https://github.com/KennyKvn001/alu-web-development/assets/127345283/7ae6f42b-2c79-4c84-a8e6-6cf44bfc0b3b)
