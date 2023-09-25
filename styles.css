@@ -1,50 +1,50 @@
 @font-face {
   font-family: myfont-semibold;
-  src: url(source-sans-pro/SourceSansPro-Semibold.otf);
+  src: url(SourceSansPro-Semibold.otf);
 }
 @font-face {
   font-family: mybold;
-  src: url(source-sans-pro/SourceSansPro-Bold.otf);
+  src: url(SourceSansPro-Bold.otf);
 }
 @font-face {
   font-family: myfont-regular;
-  src: url(source-sans-pro/SourceSansPro-Regular.otf);
+  src: url(SourceSansPro-Regular.otf);
 }
 @font-face {
   font-family: myfont-black;
-  src: url(source-sans-pro/SourceSansPro-Black.otf);
+  src: url(SourceSansPro-Black.otf);
 }
 @font-face {
   font-family: myfont-blackit;
-  src: url(source-sans-pro/SourceSansPro-BlackIt.otf);
+  src: url(SourceSansPro-BlackIt.otf);
 }
 @font-face {
   font-family: myboldit;
-  src: url(source-sans-pro/SourceSansPro-BoldIt.otf);
+  src: url(SourceSansPro-BoldIt.otf);
 }
 @font-face {
   font-family: myfont-extralight;
-  src: url(source-sans-pro/SourceSansPro-ExtraLight.otf);
+  src: url(SourceSansPro-ExtraLight.otf);
 }
 @font-face {
   font-family: myfont-extralightit;
-  src: url(source-sans-pro/SourceSansPro-ExtraLightIt.otf);
+  src: url(SourceSansPro-ExtraLightIt.otf);
 }
 @font-face {
   font-family: myfont-it;
-  src: url(source-sans-pro/SourceSansPro-It.otf);
+  src: url(SourceSansPro-It.otf);
 }
 @font-face {
   font-family: myfont-light;
-  src: url(source-sans-pro/SourceSansPro-Light.otf);
+  src: url(SourceSansPro-Light.otf);
 }
 @font-face {
   font-family: myfont-lightit;
-  src: url(source-sans-pro/SourceSansPro-LightIt.otf);
+  src: url(SourceSansPro-LightIt.otf);
 }
 @font-face {
   font-family: myfont-boldit;
-  src: url(source-sans-pro/SourceSansPro-SemiboldIt.otf);
+  src: url(SourceSansPro-SemiboldIt.otf);
 }
 
 * {
@@ -76,7 +76,7 @@ body::before {
   left: 0;
   width: 100%;
   height: 160%;
-  background-image: url(images/girl.png); /* Set the same background image */
+  background-image: url(girl.png); /* Set the same background image */
   filter: grayscale(100%); /* Apply 100% grayscale to the background image */
   background-repeat: no-repeat;
   background-blend-mode: color;
